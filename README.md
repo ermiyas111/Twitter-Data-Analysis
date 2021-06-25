@@ -12,7 +12,7 @@
 8. In all cases when you merge, make sure you first do Pull Request, review, then accept the merge.
 9. Setup Travis CI to your repository such that when you git push new code (or merge a branch) to the main branch, the unit test in tests/*.py runs automatically. 10. All tests should pass.
 
-After Completing this Challenge, you would have explore  
+After Completing this Challenge, you would have explore:
 
 - Unittesting
 - Modular Coding
